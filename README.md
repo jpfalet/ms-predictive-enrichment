@@ -1,5 +1,5 @@
 # ms-predictive-enrichment
-A version of the code used to estimate treatment effect in the paper by Falet et. al (2022) titled "Estimating treatment effect for individuals with progressive multiple sclerosis using deep learning," which can be easily adapted to suite a specific analysis pipeline. Dataset-specific code is not made public as the data used in this paper is not publically available.
+Code used to estimate treatment effect in the paper by Falet et. al (2022) titled "Estimating treatment effect for individuals with progressive multiple sclerosis using deep learning," which can be easily adapted to suite a specific analysis pipeline. Dataset-specific code is not made public as the data used in this paper is not publically available.
 
 # Usage
 An simple implementation example is provided with a randomly generated dataset in the main() function.
