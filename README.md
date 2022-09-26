@@ -5,4 +5,4 @@ Code used to estimate conditional average treatment effect for the purpose of pr
 An simple implementation that uses a randomly generated dataset is provided as an example in the main() function.
 
 # Acknowledgment
-If you use part of this code, please cite our paper: https://www.nature.com/articles/s41467-022-33269-x
+If you use part of this code, please cite our paper: https://doi.org/10.1038/s41467-022-33269-x
